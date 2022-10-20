@@ -25,9 +25,9 @@ Chapter | What To Do
 
 # Virtualization
 
-Chapter | What To Do
---------|-----------
-[Abstraction: Processes](http://www.cs.wisc.edu/~remzi/OSTEP/cpu-intro.pdf) | Run [process-run.py](cpu-intro)
+Chapter | What To Do | My Answer
+--------|-----------|----------
+[Abstraction: Processes](http://www.cs.wisc.edu/~remzi/OSTEP/cpu-intro.pdf) | Run [process-run.py](cpu-intro) | [answer.md](./cpu-intro/answer.md)
 [Process API](http://www.cs.wisc.edu/~remzi/OSTEP/cpu-api.pdf) | Run [fork.py](cpu-api) and write some code
 [Direct Execution](http://www.cs.wisc.edu/~remzi/OSTEP/cpu-mechanisms.pdf) | Write some code
 [Scheduling Basics](http://www.cs.wisc.edu/~remzi/OSTEP/cpu-sched.pdf) | Run [scheduler.py](cpu-sched)
@@ -48,8 +48,8 @@ Chapter | What To Do
 
 # Concurrency
 
-Chapter | What To Do
---------|-----------
+Chapter | What To Do | My Answer
+--------|-----------|----------
 [Threads Intro](http://www.cs.wisc.edu/~remzi/OSTEP/threads-intro.pdf) | Run [x86.py](threads-intro)
 [Thread API](http://www.cs.wisc.edu/~remzi/OSTEP/threads-api.pdf)	| Run [some C code](threads-api)
 [Locks](http://www.cs.wisc.edu/~remzi/OSTEP/threads-locks.pdf)	| Run [x86.py](threads-locks)
@@ -61,8 +61,8 @@ Chapter | What To Do
 
 # Persistence
 
-Chapter | What To Do
---------|-----------
+Chapter | What To Do | My Answer
+--------|-----------|---------
 [I/O Devices](http://www.cs.wisc.edu/~remzi/OSTEP/file-devices.pdf) | No homework (yet)
 [Hard Disk Drives](http://www.cs.wisc.edu/~remzi/OSTEP/file-disks.pdf) | Run [disk.py](file-disks)
 [RAID](http://www.cs.wisc.edu/~remzi/OSTEP/file-raid.pdf) | Run [raid.py](file-raid)
